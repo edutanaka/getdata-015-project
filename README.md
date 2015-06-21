@@ -2,7 +2,7 @@
 
  1. Download the file and unzip ["UCI HAR Dataset"](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
  2. Download 'run_analysis.R' and save in UCI HAR Dataset directory
- 3. Load run_analysis.R
+ 3. Load run_analysis.R in rStudio
  ``` 
  source("./run_analysis.R") 
  ```
